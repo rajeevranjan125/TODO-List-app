@@ -24,7 +24,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-input[type="tetx"] {
+input[type="text"] {
     flex: 1;
     pad: 10px;
     border: 1px solid #ccc;
